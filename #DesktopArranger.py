@@ -7,7 +7,7 @@ source_folder = r"C:\Users\(USER)\\Desktop"
 destination_folder = r"C:\Users\(USER)\Desktop\\Arrange"
 
 #Files we want to have on our desktop
-allowed_files = ["Files you want to add.txt"]
+allowed_files = ["sample.txt"]
 
 allfiles = os.listdir(source_folder)
 
