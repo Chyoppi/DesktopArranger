@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of codes I've made
+Portfolio of codes I've made for myself or for school.
 
 #Desktop Arranger
 -----------------
